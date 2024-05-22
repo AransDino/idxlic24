@@ -1,0 +1,425 @@
+{
+    "teams": [
+      {
+        "Puesto": "1º",
+        "Equipo": "O.Maritima",
+        "PUNTOS": 15,
+        "G-A FAVOR": 19,
+        "G-ENCONTRA": 8,
+        "DIF-GOLES": 11,
+        "T-AMARILLA": 3,
+        "T.ROJA": 2
+      },
+      {
+        "Puesto": "2º",
+        "Equipo": "Feyenoord",
+        "PUNTOS": 13,
+        "G-A FAVOR": 13,
+        "G-ENCONTRA": 3,
+        "DIF-GOLES": 10,
+        "T-AMARILLA": 2,
+        "T.ROJA": 3
+      },
+      {
+        "Puesto": "3º",
+        "Equipo": "CSKA Moscow",
+        "PUNTOS": 12,
+        "G-A FAVOR": 20,
+        "G-ENCONTRA": 11,
+        "DIF-GOLES": 9,
+        "T-AMARILLA": 3,
+        "T.ROJA": 3
+      },
+      {
+        "Puesto": "4º",
+        "Equipo": "Fenerbahçe",
+        "PUNTOS": 12,
+        "G-A FAVOR": 14,
+        "G-ENCONTRA": 8,
+        "DIF-GOLES": 6,
+        "T-AMARILLA": 3,
+        "T.ROJA": 3
+      },
+      {
+        "Puesto": "5º",
+        "Equipo": "Villareal",
+        "PUNTOS": 12,
+        "G-A FAVOR": 13,
+        "G-ENCONTRA": 9,
+        "DIF-GOLES": 4,
+        "T-AMARILLA": 3,
+        "T.ROJA": 5
+      },
+      {
+        "Puesto": "6º",
+        "Equipo": "BRITONG",
+        "PUNTOS": 11,
+        "G-A FAVOR": 17,
+        "G-ENCONTRA": 11,
+        "DIF-GOLES": 6,
+        "T-AMARILLA": 2,
+        "T.ROJA": 4
+      },
+      {
+        "Puesto": "7º",
+        "Equipo": "Bayer Leverkusen",
+        "PUNTOS": 9,
+        "G-A FAVOR": 20,
+        "G-ENCONTRA": 14,
+        "DIF-GOLES": 6,
+        "T-AMARILLA": 3,
+        "T.ROJA": 3
+      },
+      {
+        "Puesto": "8º",
+        "Equipo": "Manchester City",
+        "PUNTOS": 9,
+        "G-A FAVOR": 12,
+        "G-ENCONTRA": 7,
+        "DIF-GOLES": 5,
+        "T-AMARILLA": 3,
+        "T.ROJA": 1
+      },
+      {
+        "Puesto": "9º",
+        "Equipo": "Rangers",
+        "PUNTOS": 9,
+        "G-A FAVOR": 17,
+        "G-ENCONTRA": 13,
+        "DIF-GOLES": 4,
+        "T-AMARILLA": 1,
+        "T.ROJA": 4
+      },
+      {
+        "Puesto": "10º",
+        "Equipo": "Real Madrid",
+        "PUNTOS": 9,
+        "G-A FAVOR": 11,
+        "G-ENCONTRA": 9,
+        "DIF-GOLES": 2,
+        "T-AMARILLA": 3,
+        "T.ROJA": 1
+      },
+      {
+        "Puesto": "11º",
+        "Equipo": "Olympiacos",
+        "PUNTOS": 9,
+        "G-A FAVOR": 12,
+        "G-ENCONTRA": 10,
+        "DIF-GOLES": 2,
+        "T-AMARILLA": 3,
+        "T.ROJA": 2
+      },
+      {
+        "Puesto": "12º",
+        "Equipo": "Celtic",
+        "PUNTOS": 9,
+        "G-A FAVOR": 10,
+        "G-ENCONTRA": 8,
+        "DIF-GOLES": 2,
+        "T-AMARILLA": 3,
+        "T.ROJA": 3
+      },
+      {
+        "Puesto": "13º",
+        "Equipo": "SPORTING LISBOA",
+        "PUNTOS": 9,
+        "G-A FAVOR": 10,
+        "G-ENCONTRA": 9,
+        "DIF-GOLES": 1,
+        "T-AMARILLA": 3,
+        "T.ROJA": 2
+      },
+      {
+        "Puesto": "14º",
+        "Equipo": "AC Milan",
+        "PUNTOS": 9,
+        "G-A FAVOR": 10,
+        "G-ENCONTRA": 11,
+        "DIF-GOLES": -1,
+        "T-AMARILLA": 3,
+        "T.ROJA": 1
+      },
+      {
+        "Puesto": "15º",
+        "Equipo": "D. CORUNA",
+        "PUNTOS": 8,
+        "G-A FAVOR": 14,
+        "G-ENCONTRA": 6,
+        "DIF-GOLES": 8,
+        "T-AMARILLA": 3,
+        "T.ROJA": 1
+      },
+      {
+        "Puesto": "16º",
+        "Equipo": "Chelsea",
+        "PUNTOS": 8,
+        "G-A FAVOR": 16,
+        "G-ENCONTRA": 14,
+        "DIF-GOLES": 2,
+        "T-AMARILLA": 1,
+        "T.ROJA": 1
+      },
+      {
+        "Puesto": "17º",
+        "Equipo": "Sporting CP",
+        "PUNTOS": 8,
+        "G-A FAVOR": 8,
+        "G-ENCONTRA": 6,
+        "DIF-GOLES": 2,
+        "T-AMARILLA": 3,
+        "T.ROJA": 2
+      },
+      {
+        "Puesto": "18º",
+        "Equipo": "UD. GUADALAJARA",
+        "PUNTOS": 7,
+        "G-A FAVOR": 17,
+        "G-ENCONTRA": 14,
+        "DIF-GOLES": 3,
+        "T-AMARILLA": 0,
+        "T.ROJA": 1
+      },
+      {
+        "Puesto": "19º",
+        "Equipo": "Napoli",
+        "PUNTOS": 7,
+        "G-A FAVOR": 20,
+        "G-ENCONTRA": 17,
+        "DIF-GOLES": 3,
+        "T-AMARILLA": 4,
+        "T.ROJA": 2
+      },
+      {
+        "Puesto": "20º",
+        "Equipo": "Bayern Munich",
+        "PUNTOS": 7,
+        "G-A FAVOR": 12,
+        "G-ENCONTRA": 9,
+        "DIF-GOLES": 3,
+        "T-AMARILLA": 2,
+        "T.ROJA": 3
+      },
+      {
+        "Puesto": "21º",
+        "Equipo": "Barcelona",
+        "PUNTOS": 7,
+        "G-A FAVOR": 15,
+        "G-ENCONTRA": 14,
+        "DIF-GOLES": 1,
+        "T-AMARILLA": 3,
+        "T.ROJA": 3
+      },
+      {
+        "Puesto": "22º",
+        "Equipo": "PSV Eindhoven",
+        "PUNTOS": 7,
+        "G-A FAVOR": 8,
+        "G-ENCONTRA": 9,
+        "DIF-GOLES": -1,
+        "T-AMARILLA": 3,
+        "T.ROJA": 1
+      },
+      {
+        "Puesto": "23º",
+        "Equipo": "Tottenham",
+        "PUNTOS": 7,
+        "G-A FAVOR": 10,
+        "G-ENCONTRA": 11,
+        "DIF-GOLES": -1,
+        "T-AMARILLA": 3,
+        "T.ROJA": 2
+      },
+      {
+        "Puesto": "24º",
+        "Equipo": "Juventus",
+        "PUNTOS": 7,
+        "G-A FAVOR": 11,
+        "G-ENCONTRA": 15,
+        "DIF-GOLES": -4,
+        "T-AMARILLA": 3,
+        "T.ROJA": 1
+      },
+      {
+        "Puesto": "25º",
+        "Equipo": "Z. Saint Petersburg",
+        "PUNTOS": 6,
+        "G-A FAVOR": 13,
+        "G-ENCONTRA": 12,
+        "DIF-GOLES": 1,
+        "T-AMARILLA": 3,
+        "T.ROJA": 3
+      },
+      {
+        "Puesto": "26º",
+        "Equipo": "Inter Milan",
+        "PUNTOS": 6,
+        "G-A FAVOR": 11,
+        "G-ENCONTRA": 11,
+        "DIF-GOLES": 0,
+        "T-AMARILLA": 1,
+        "T.ROJA": 2
+      },
+      {
+        "Puesto": "27º",
+        "Equipo": "Arsenal",
+        "PUNTOS": 6,
+        "G-A FAVOR": 9,
+        "G-ENCONTRA": 11,
+        "DIF-GOLES": -2,
+        "T-AMARILLA": 2,
+        "T.ROJA": 2
+      },
+      {
+        "Puesto": "28º",
+        "Equipo": "ALMERIA",
+        "PUNTOS": 6,
+        "G-A FAVOR": 10,
+        "G-ENCONTRA": 13,
+        "DIF-GOLES": -3,
+        "T-AMARILLA": 4,
+        "T.ROJA": 3
+      },
+      {
+        "Puesto": "29º",
+        "Equipo": "Tottenham",
+        "PUNTOS": 6,
+        "G-A FAVOR": 8,
+        "G-ENCONTRA": 12,
+        "DIF-GOLES": -4,
+        "T-AMARILLA": 3,
+        "T.ROJA": 2
+      },
+      {
+        "Puesto": "30º",
+        "Equipo": "Roma",
+        "PUNTOS": 6,
+        "G-A FAVOR": 9,
+        "G-ENCONTRA": 13,
+        "DIF-GOLES": -4,
+        "T-AMARILLA": 2,
+        "T.ROJA": 3
+      },
+      {
+        "Puesto": "31º",
+        "Equipo": "B Dortmund",
+        "PUNTOS": 6,
+        "G-A FAVOR": 10,
+        "G-ENCONTRA": 16,
+        "DIF-GOLES": -6,
+        "T-AMARILLA": 2,
+        "T.ROJA": 2
+      },
+      {
+        "Puesto": "32º",
+        "Equipo": "Manchester United",
+        "PUNTOS": 5,
+        "G-A FAVOR": 10,
+        "G-ENCONTRA": 11,
+        "DIF-GOLES": -1,
+        "T-AMARILLA": 0,
+        "T.ROJA": 3
+      },
+      {
+        "Puesto": "33º",
+        "Equipo": "GRANADA",
+        "PUNTOS": 5,
+        "G-A FAVOR": 12,
+        "G-ENCONTRA": 13,
+        "DIF-GOLES": -1,
+        "T-AMARILLA": 4,
+        "T.ROJA": 5
+      },
+      {
+        "Puesto": "34º",
+        "Equipo": "U.D Las Palmas",
+        "PUNTOS": 5,
+        "G-A FAVOR": 15,
+        "G-ENCONTRA": 17,
+        "DIF-GOLES": -2,
+        "T-AMARILLA": 1,
+        "T.ROJA": 1
+      },
+      {
+        "Puesto": "35º",
+        "Equipo": "Ajax",
+        "PUNTOS": 5,
+        "G-A FAVOR": 8,
+        "G-ENCONTRA": 13,
+        "DIF-GOLES": -5,
+        "T-AMARILLA": 3,
+        "T.ROJA": 2
+      },
+      {
+        "Puesto": "36º",
+        "Equipo": "Atlético de Madrid",
+        "PUNTOS": 4,
+        "G-A FAVOR": 12,
+        "G-ENCONTRA": 18,
+        "DIF-GOLES": -6,
+        "T-AMARILLA": 1,
+        "T.ROJA": 4
+      },
+      {
+        "Puesto": "37º",
+        "Equipo": "HARIA",
+        "PUNTOS": 4,
+        "G-A FAVOR": 12,
+        "G-ENCONTRA": 18,
+        "DIF-GOLES": -6,
+        "T-AMARILLA": 3,
+        "T.ROJA": 5
+      },
+      {
+        "Puesto": "38º",
+        "Equipo": "Galatasaray",
+        "PUNTOS": 3,
+        "G-A FAVOR": 12,
+        "G-ENCONTRA": 15,
+        "DIF-GOLES": -3,
+        "T-AMARILLA": 4,
+        "T.ROJA": 2
+      },
+      {
+        "Puesto": "39º",
+        "Equipo": "Sevilla",
+        "PUNTOS": 3,
+        "G-A FAVOR": 8,
+        "G-ENCONTRA": 14,
+        "DIF-GOLES": -6,
+        "T-AMARILLA": 3,
+        "T.ROJA": 2
+      },
+      {
+        "Puesto": "40º",
+        "Equipo": "Haria C.F",
+        "PUNTOS": 3,
+        "G-A FAVOR": 3,
+        "G-ENCONTRA": 18,
+        "DIF-GOLES": -15,
+        "T-AMARILLA": 2,
+        "T.ROJA": 3
+      },
+      {
+        "Puesto": "41º",
+        "Equipo": "Liverpool",
+        "PUNTOS": 2,
+        "G-A FAVOR": 8,
+        "G-ENCONTRA": 14,
+        "DIF-GOLES": -6,
+        "T-AMARILLA": 2,
+        "T.ROJA": 4
+      },
+      {
+        "Puesto": "42º",
+        "Equipo": "OSASUNA",
+        "PUNTOS": 0,
+        "G-A FAVOR": 5,
+        "G-ENCONTRA": 19,
+        "DIF-GOLES": -14,
+        "T-AMARILLA": 2,
+        "T.ROJA": 2
+      }
+    ]
+  }
+  
